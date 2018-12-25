@@ -79,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git 
-  repo: https://github.com/WiseHolo/WiseHolo.github.io.git
+  repo: https://github.com/WiseHole/WiseHolo.github.io.git
   branch: [master]
